@@ -1,6 +1,6 @@
 # labuna.github.io
 
- Copyright @ My Name
+ Copyright @ Andrew Labunka
  
 ## Description 
 
